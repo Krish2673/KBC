@@ -1,2 +1,2 @@
 # KBC
-A KBC game including all it's rules
+A KBC game with all it's rules including various customisations
